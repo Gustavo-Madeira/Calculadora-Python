@@ -1,2 +1,2 @@
-# Python-Calculator
-A simple calculator in Python.
+# calculadora-Python
+Uma calculadora simples em Python, onde você soma, subtrai, multiplica e divide.
